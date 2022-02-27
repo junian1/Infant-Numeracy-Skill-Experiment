@@ -1,2 +1,2 @@
 # Test
-reset
+Actual thesis is available upon request
